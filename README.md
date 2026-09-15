@@ -443,7 +443,7 @@ You must:
 1. Modify the code block below so that it contains the output of the command below
     ```
     $ qwen 'what is .bashrc?'
-Bash's initialization script, executed for every interactive non-login shell, allowing users to configure their environment with aliases and options.
+    Bash's initialization script, executed for every interactive non-login shell, allowing users to configure the       ir environment with aliases and options.
     ```
 
 1. Push your changes to github.
